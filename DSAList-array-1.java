@@ -1,3 +1,5 @@
+/*Ques - Write a program to reverse an array*/
+
 import java.util.*;
 import java.lang.*;
 

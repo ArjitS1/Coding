@@ -1,4 +1,5 @@
-/* TODO: using Priority Queue(max Heap)
+/* Ques: Find the Kth smallest element of array 
+https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1
 */
 import java.util.*;
 import java.lang.*;
@@ -46,13 +47,13 @@ class Main
 
 			for(int i=0;i<k-1;++i)	pq.poll();	
 			
-			System.out.println(pq.peekj());
+			System.out.println(pq.peek());
 			*/
 
 
 			/* MaxHeap Soln
 			Algo -
-			- For every elemnt of array
+			- For every element of array
 			- Add to MaxHeap 
 			- If i>=k Remove top element from heap
 			- At last kth smallest will be left at root of maxHeap

@@ -1,4 +1,5 @@
-/* 	CAN DO: Pairwise soln
+/* 	Ques - Maximum and minimum of an array using minimum number of comparisons
+	CAN DO: Pairwise soln
 	Note: Can do Using sort but time Complexity - O(nlogn)
 */
 import java.util.*;
